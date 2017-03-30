@@ -102,3 +102,9 @@ For the sample input displayed above, the system must provide the following JSON
 			}
 		]		
 	}
+	
+#Request information
+
+Method: POST
+Media Type: application/json
+Resource URL: //RestBookingService/services/bookingService/schedule
