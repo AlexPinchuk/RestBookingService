@@ -1,0 +1,10 @@
+com\alexpinchuk\ws\rest\model\OfficeTimetable.class
+com\alexpinchuk\ws\rest\model\Meeting.class
+com\alexpinchuk\ws\rest\model\BookingRequest.class
+com\alexpinchuk\ws\rest\service\BookingService.class
+com\alexpinchuk\ws\rest\model\BookingInformation.class
+com\alexpinchuk\ws\rest\test\SheduleMakerTest.class
+com\alexpinchuk\ws\rest\controller\ScheduleFactory$2.class
+com\alexpinchuk\ws\rest\controller\ScheduleFactory.class
+com\alexpinchuk\ws\rest\controller\SñheduleMaker.class
+com\alexpinchuk\ws\rest\controller\ScheduleFactory$1.class
