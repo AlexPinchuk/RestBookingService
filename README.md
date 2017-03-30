@@ -103,8 +103,8 @@ For the sample input displayed above, the system must provide the following JSON
 		]		
 	}
 	
-#Request information
+# Request Information
 
-Method: POST
-Media Type: application/json
-Resource URL: //RestBookingService/services/bookingService/schedule
+	Method: POST
+	Media Type: application/json
+	Resource URL: //RestBookingService/services/bookingService/schedule
